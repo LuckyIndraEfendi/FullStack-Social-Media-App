@@ -1,0 +1,8 @@
+.postComment .post:focus + span{
+    opacity: 1;
+}
+
+.postComment span {
+    opacity: 0;
+
+}
